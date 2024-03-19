@@ -1,0 +1,84 @@
+.container{
+    box-shadow: 0 0 2px 2px var(--azure);
+    padding: 0.7rem;
+    padding-bottom: 0.6rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    border-radius: 0.2rem;
+    box-sizing: border-box;
+    user-select: none;
+}
+.container:hover{
+    opacity: 0.92;
+}
+.container figure{
+    display: flex;
+    margin: 0px;
+    flex-direction: column;
+}
+.container figcaption{
+    font-size: 0.92rem;
+    font-weight: 500;
+    margin-top: 0.25rem;
+    min-height: 2rem;
+}
+.container  figure, .container  figure > img{
+    width:100%;
+}
+.bottomContent{
+    margin-top: auto;
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.bottomContent > p{
+    font-size: 0.92rem;
+    margin: 0rem 0 0.63rem 0;
+}
+
+.priceDiscounted, .price, .priceDiscountedRed{
+    font-size: 0.92rem;
+}
+.price{ margin-top: 1.5rem; }
+.priceDiscounted{
+    text-decoration: line-through;
+    margin-top: 0.9rem;
+}
+
+.priceDiscountedRed{
+    color: var(--red);
+    padding-top: 0.16rem;
+    padding-bottom: 0.8rem;
+}
+
+.bottomContent > button{
+    padding: 0.2rem 0.8rem;
+}
+
+
+@media (min-width: 768px) { 
+    .container figcaption{
+        font-size: 0.9rem;
+    }
+}
+@media (min-width: 1200px) { 
+    .container{
+        padding-bottom: 0.9rem;
+    }
+
+    .container figcaption {
+        margin-top: 0.7rem;
+        margin-bottom: 0.8rem;
+    }
+
+    .bottomContent {
+        padding:1rem 0 0.6rem 0;
+    }
+    .bottomContent button {
+        padding: 0.14rem 0.8rem;
+        font-size: 0.8rem;
+    }
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "idProd": 1,
+        "nameProd": "Polo manga larga estampa",
+        "imgName": "polo1.png",
+        "price": 18.99,
+        "moreColors": true,
+        "discount": 20,
+        "priceDiscounted": 15.19
+    },
+    {
+        "idProd": 2,
+        "nameProd": "Polo manga larga bandas",
+        "imgName": "polo2.png",
+        "price": 20.99,
+        "moreColors": true,
+        "discount": 0,
+        "priceDiscounted": 20.99
+    },
+    {
+        "idProd": 3,
+        "nameProd": "Polo manga larga estampa 2",
+        "imgName": "polo3.png",
+        "price": 18.99,
+        "moreColors": true,
+        "discount": 20,
+        "priceDiscounted": 15.19
+    },
+    {
+        "idProd": 4,
+        "nameProd": "Polo manga larga niño",
+        "imgName": "polo4.png",
+        "price": 15,
+        "moreColors": false,
+        "discount": 0,
+        "priceDiscounted": 15
+    },
+    {
+        "idProd": 5,
+        "nameProd": "Polo manga larga roja",
+        "imgName": "polo5.png",
+        "price": 15,
+        "moreColors": true,
+        "discount": 20,
+        "priceDiscounted": 12
+    },
+    {
+        "idProd": 6,
+        "nameProd": "Polo manga larga estampa niño",
+        "imgName": "polo1.png",
+        "price": 15,
+        "moreColors": false,
+        "discount": 20,
+        "priceDiscounted": 12
+    },
+    {
+        "idProd": 7,
+        "nameProd": "Polo manga larga bandas niño",
+        "imgName": "polo2.png",
+        "price": 30.5,
+        "moreColors": false,
+        "discount": 10,
+        "priceDiscounted": 27.45
+    },
+    {
+        "idProd": 8,
+        "nameProd": "Polo manga larga XXL",
+        "imgName": "polo3.png",
+        "price": 50,
+        "moreColors": false,
+        "discount": 10,
+        "priceDiscounted": 45
+    }
+]

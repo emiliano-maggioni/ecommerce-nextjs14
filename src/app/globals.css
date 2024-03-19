@@ -1,0 +1,9 @@
+html{
+  font-size: 16px;
+}
+:root {
+ --azure: #7fa3d3;
+ --black: #000;
+ --red: #d33c24;
+}
+
