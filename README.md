@@ -1,21 +1,21 @@
 # E-commerce NextJS 14
-E-commerce technical test done with ReactJS, NextJS 14, Material UI, Typescript and Jest (for the unit tests).
+E-commerce technical test done with ReactJS, NextJS 14, Material UI, Typescript and Jest (for the unit tests).<br />
 
 ## Technologies required
-React
-Typescript
-Next.js
+React<br />
+Typescript<br />
+Next.js<br />
 
 ## Test Requirements
-Separates into components in an optimal and organized way
-The view should resemble the attached photos as closely as possible.
-Implement product search by name
-Consume a JSON with product data (local or external JSON)
-Change the view with the icons indicated in the photo (/desktop.png)
-Desk with 4 to 3 elements
-Mobile from 3 to 2 elements
-Implement logic and design of a “sort” component (ascending and descending price)
-Create the unit tests that you see fit
+Separates into components in an optimal and organized way<br />
+The view should resemble the attached photos as closely as possible.<br />
+Implement product search by name<br />
+Consume a JSON with product data (local or external JSON)<br />
+Change the view with the icons indicated in the photo (/desktop.png)<br />
+Desk with 4 to 3 elements<br />
+Mobile from 3 to 2 elements<br />
+Implement logic and design of a “sort” component (ascending and descending price)<br />
+Create the unit tests that you see fit<br />
 
 ## Get started
 
