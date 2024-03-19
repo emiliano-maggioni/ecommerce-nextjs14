@@ -8,10 +8,10 @@ Next.js<br />
 
 ## Test Requirements
 Separates into components in an optimal and organized way<br />
-The view should resemble the attached photos as closely as possible.<br />
+The view should resemble the attached photos as closely as possible  (file desktop.png in the root of this repo).<br />
 Implement product search by name<br />
 Consume a JSON with product data (local or external JSON)<br />
-Change the view with the icons indicated in the photo (/desktop.png)<br />
+Change the view with the icons indicated in the photo<br />
 Desk with 4 to 3 elements<br />
 Mobile from 3 to 2 elements<br />
 Implement logic and design of a “sort” component (ascending and descending price)<br />
